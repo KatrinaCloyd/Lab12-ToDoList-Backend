@@ -12,7 +12,7 @@ module.exports = [
     user_id: 1
   },
   {
-    todo: 'fold laundry',
+    todo: 'wash laundry',
     importance: 'medium',
     completed: false,
     user_id: 1
